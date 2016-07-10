@@ -1,4 +1,4 @@
 # networks
 homeworks
 
-These notebooks are my solutions to the task during the course of Network Science: https://github.com/MakarovIA/networks
+These notebooks are my solutions to the tasks given during the course of Network Science: https://github.com/MakarovIA/networks
